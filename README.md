@@ -29,7 +29,6 @@ Make sure you have the following installed on your machine:
 
 ```bash
 git clone https://github.com/ansh04196/Fig-Pro.git
-cd figma-ts
 ```
 
 **Installation**
