@@ -1,6 +1,6 @@
 ## <a name="introduction">🤖 Introduction</a>
 
-A minimalistic Figma clone to show how to add real-world features like live collaboration with cursor chat, comments, reactions, and drawing designs (shapes, image upload) on the canvas using fabric.js.
+A Collaborative Online Design Platform is a cutting-edge project aimed at providing users with a seamless experience for creating, editing, and collaborating on design projects in real-time. Much like Figma, our platform empowers users to work together efficiently, regardless of their geographical location, enabling teams to innovate.
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
